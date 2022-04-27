@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to CSC792 Project Page (Team #2)
 
 You can use the [editor on GitHub](https://github.com/SpaceMonkey-TheCoder/CSC792SD/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
